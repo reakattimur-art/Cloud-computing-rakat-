@@ -1,0 +1,17 @@
+Nama Kelompok: Kelompok Rakat
+
+Anggota 1: Yovilia Maroko
+- Setup Repository GitHub
+- Setup Docker Compose
+
+Anggota 2: Tresia Loisa Raturomon
+- Konfigurasi MySQL
+
+Anggota 3:Zusanty Pricilia Rainuny
+- Konfigurasi Network
+
+Anggota 4:Gilbert Ilen Umbu Londong
+- Pengujian WordPress
+
+Anggota 5:Semua Anggota
+- Dokumentasi
