@@ -1,0 +1,23 @@
+DESKRIPSI KONTRIBUSI ANGGOTA KELOMPOK
+
+Mata Kuliah: Cloud Computing
+Project: WordPress Cloud Project - Milestone 2
+
+1. Zusanty Pricilia Rainuny
+   - Update docker-compose.yml
+   - Konfigurasi WordPress dan MySQL
+   - Dokumentasi project dan upload GitHub
+
+2. Gilbert Ilen Umbu Londong
+   - Konfigurasi Redis Cache
+   - Pengujian Redis dan monitoring cache
+
+3. Yovilia Maroko
+   - Konfigurasi MinIO Object Storage
+   - Pembuatan bucket dan pengujian upload file
+
+4. Tresia Loisa Raturomon
+   - Pengumpulan screenshot hasil implementasi
+   - Penyusunan dokumentasi dan laporan project
+
+Tanggal: 18 Juni 2026
